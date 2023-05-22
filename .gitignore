@@ -1,3 +1,5 @@
 node_modules
-cypress\videos
-cypress\screenshots
+cypress/videos
+cypress/screenshots
+*.mp4
+cypress/videos/finances.cy.js.mp4
